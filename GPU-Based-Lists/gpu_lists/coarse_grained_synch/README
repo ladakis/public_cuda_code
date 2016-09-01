@@ -1,0 +1,7 @@
+Needs debug. Due to Compiler Optimizations threads often fall to a deadlock.
+
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 18.118784 ms.
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 14.574688 ms.
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 13.451840 ms.
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 15.023584 ms.
+

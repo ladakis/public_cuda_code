@@ -1,0 +1,7 @@
+
+//threads in different blocks
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 21.897888 ms.
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 21.992031 ms.
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 21.879711 ms.
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 22.041857 ms.
+

@@ -1,0 +1,6 @@
+
+
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 125.669373 ms.
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 125.674782 ms.
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 125.663612 ms.
+blockCounter1 <<< 512, 1024 >>> () counted 0 blocks in 125.668579 ms.
