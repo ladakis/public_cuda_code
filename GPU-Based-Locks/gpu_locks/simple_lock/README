@@ -1,0 +1,7 @@
+reference
+
+http://will-landau.com/gpu/lectures/cudac-atomics/cudac-atomics.pdf
+
+a trick in order to avoid deadlock spinning
+http://stackoverflow.com/questions/2021019/how-to-implement-a-critical-section-in-cuda
+
